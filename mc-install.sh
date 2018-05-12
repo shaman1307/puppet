@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo apt-get install mc
+sudo apt-get update -y
+sudo apt-get install mc -y
